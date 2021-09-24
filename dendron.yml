@@ -36,6 +36,8 @@ site:
     usePrettyRefs: true
     title: Dendron
     description: Personal knowledge space
+    siteUrl: "https://kevinslin.github.io"
+    assetsPrefix: "/dendron-publish-demo"
     siteLastModified: true
     gh_edit_branch: main
     duplicateNoteBehavior:
